@@ -1,4 +1,4 @@
-Project Description
+# Project Description
 This project explores algorithms to analyze genetic patterns and identify hidden messages within DNA sequences. By leveraging computational techniques, the project delves into identifying DNA replication origins, analyzing motifs, and uncovering genomic insights from large DNA datasets.
 
 Key Features 🚀
