@@ -10,22 +10,12 @@ Key Features 🚀
 Algorithms and Techniques 🛠️
 The following computational approaches are implemented:
 
-1. String Matching Algorithms:
+1. String Matching Algorithms
 
-- Sliding Window Technique
-- Hash-Based Pattern Search
-- Frequency Analysis
+2. Motif Finding
 
-- Motif Finding:
+3. Divide and Conquer Methods
 
-Brute Force and Greedy Algorithms
-K-mer Pattern Analysis
+4. DNA Replication Origin Detection
 
-- Divide and Conquer Methods:
 
-Efficient searches over long genomic strings.
-
--DNA Replication Origin Detection:
-
-Identifying k-mers with high frequency and skewed distributions.
-Identifying k-mers with high frequency and skewed distributions.
