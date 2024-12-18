@@ -12,9 +12,9 @@ The following computational approaches are implemented:
 
 1. String Matching Algorithms:
 
-Sliding Window Technique
-Hash-Based Pattern Search
-Frequency Analysis
+- Sliding Window Technique
+- Hash-Based Pattern Search
+- Frequency Analysis
 
 - Motif Finding:
 
