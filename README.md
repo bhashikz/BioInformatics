@@ -21,9 +21,11 @@ Frequency Analysis
 Brute Force and Greedy Algorithms
 K-mer Pattern Analysis
 
--Divide and Conquer Methods:
+- Divide and Conquer Methods:
 
 Efficient searches over long genomic strings.
 
 -DNA Replication Origin Detection:
+
+Identifying k-mers with high frequency and skewed distributions.
 Identifying k-mers with high frequency and skewed distributions.
