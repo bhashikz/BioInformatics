@@ -10,7 +10,7 @@ Key Features 🚀
 Algorithms and Techniques 🛠️
 The following computational approaches are implemented:
 
-- String Matching Algorithms:
+1. String Matching Algorithms:
 
 Sliding Window Technique
 Hash-Based Pattern Search
